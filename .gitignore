@@ -1,0 +1,35 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# =====================
+# Node.js / Vite
+# =====================
+node_modules/
+dist/
+.vite/
+package-lock.json
+
+# =====================
+# Data / Large files
+# =====================
+data/*.db
+data/wavs/
+data/models/
+
+# =====================
+# OS / Misc
+# =====================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
