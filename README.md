@@ -2,6 +2,11 @@
 
 Web-sovellus iltasatujen tallentamiseen ja TTS-äänitykseen (tekstistä puheeksi).
 
+Projekti on generoitu 100% https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF käyttäen:
+llama.cpp
+RTX 5060 Ti 16GB
+
+
 ## Teknologiat
 
 - **Backend:** Python (FastAPI + uvicorn)
